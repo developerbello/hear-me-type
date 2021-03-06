@@ -1,0 +1,15 @@
+{
+  "name": "hear-me-type",
+  "version": "1.0.0",
+  "description": "A minimal Electron application, for key to sound (press any key hear sound)",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/developerbello/hear-me-type.git",
+  "author": "Bello Sheu Ibrahim",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^12.0.0"
+  }
+}
